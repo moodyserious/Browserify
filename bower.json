@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "description": "frontend depend",
+  "authors": [
+    "Yousuf"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4"
+  }
+}
